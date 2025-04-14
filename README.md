@@ -58,7 +58,9 @@ This shell supports the following built-in and custom commands:
 | 9     | Recursive aliasing + aliasing history     | 🟥 Pending  | -                      |
 
 ---
+![demo](demo.gif)
 
+---
 ## 🛠️ Technologies Used
 
 - **Language:** C
