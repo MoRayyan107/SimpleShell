@@ -12,7 +12,7 @@ This project was developed for the CS210: Computer Systems and Architecture cour
 
 ## 👨‍💻 Written By
 
-- Mohammad Rayyan Adhoni
+- [Mohammad Rayyan Adhoni](https://github.com/MoRayyan107)
 - Delvin Santhosh
 - Mohamed Sharif
 - Kyle Slavin
