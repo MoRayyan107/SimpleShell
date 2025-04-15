@@ -1,4 +1,4 @@
-# CS210 - Simple Shell (Group 18)
+# CS210 - Simple Shell
 
 ![Language: C](https://img.shields.io/badge/language-C-blue)
 ![Status: Stage 8 Complete](https://img.shields.io/badge/status-Stage%208-brightgreen)
