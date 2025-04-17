@@ -5,6 +5,7 @@
 ![Score: 82%](https://img.shields.io/badge/Score-82%25-blueviolet)
 
 A simplified shell for Unix-like systems written in **C**.
+
 [Compiled on Linux based OS]
 
 This project was developed for the CS210: Computer Systems and Architecture course. It includes functionality for basic shell commands, aliasing, history tracking, and persistent environment handling.
