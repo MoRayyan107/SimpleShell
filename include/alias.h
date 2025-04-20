@@ -9,6 +9,8 @@ typedef struct {
     char command[MAX_CMD_CHARS];
 } Alias;
 
+extern int alias_count;
+extern Alias aliases[MAX_ALIASES];
 
 void add_alias(char *name, char *cmd);
 void remove_alias(char *name);

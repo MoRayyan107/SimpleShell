@@ -5,7 +5,7 @@
 #include <sys/wait.h>
 #include <ctype.h>
 #include <limits.h>
-#include "Alias.h"
+#include "headers/alias.h"
 
 #define MAX_CMD_CHARS 512 // max chars for command line
 #define MAX_ARGS 50 // max amount for Tokens

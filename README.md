@@ -28,6 +28,7 @@ This shell supports the following built-in and custom commands:
 
 | **Command**              | **Description**                    |
 | ------------------------ | ---------------------------------- |
+| `echo`                   | Displays user input on screen      |
 | `getpath`                | Display current environment `PATH` |
 | `setpath <path>`         | Set a new `PATH` value             |
 | `cd <dir>`               | Change working directory           |
@@ -82,6 +83,32 @@ This shell supports the following built-in and custom commands:
 
 - `~/.hist_list` — History file
 - `~/.aliases` — Alias file
+
+---
+## 👨‍💻 How To Use?
+This shell is programmed in Linux based OS
+
+Download the `zip file` of this repository and extract it.
+
+In your terminal guide to the downloaded file and type this
+```
+make
+```
+
+then type
+```
+./Shell
+```
+And voilà thats a running shell
+
+To throw away old build files, then type
+```
+make clean
+```
+Or to rebuild with the new files, then type
+```
+make rebuild
+```
 
 ---
 
